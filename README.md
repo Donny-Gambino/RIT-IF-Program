@@ -1,7 +1,7 @@
 # RIT-IF-Program
 **Project Description: Automated Invoicing System Integration**
 
-In this project, we successfully implemented an innovative solution to streamline the invoicing process for our company and enhance the experience for our clients. Leveraging the powerful capabilities of Jira as our ticketing service, we created a dynamic system that automatically generates invoices when a client's order is marked as fully completed.
+In this project, our team successfully implemented an innovative solution to streamline the invoicing process for our company and enhance the experience for our clients. Leveraging the powerful capabilities of Jira as our ticketing service, we created a dynamic system that automatically generates invoices when a client's order is marked as fully completed.
 
 **Key Achievements and Highlights:**
 
