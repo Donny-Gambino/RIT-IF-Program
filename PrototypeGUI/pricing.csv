@@ -1,0 +1,32 @@
+objectId,Serial,Name,Price
+3,Serial-001,7007 Control Board,15.67
+4,Serial-002,A113D Control Board,78.54
+5,Serial-003,BB Control Board,42.19
+6,Serial-004,C52 Control Board,35.12
+7,Serial-005,CB4_V10 Control Board,66.35
+8,Serial-006,CB6_V10 Control Board,27.89
+9,Serial-007,H3 Control Board,12.45
+10,Serial-008,H6 Control Board,93.76
+11,Serial-009,Bitmain Fans,72.83
+12,Serial-010,MicroBT Fans,58.92
+13,Serial-011,Hashboard Ribbon Cable,23.41
+14,Serial-012,PSU Data Cable,89.56
+15,Serial-013,PSU Power Cable,45.76
+16,Serial-014,Hashboard Adapter Board,71.25
+17,Serial-015,Ribbon Cable,36.98
+18,Serial-016,APW11 Bitmain Power Supply,48.75
+19,Serial-017,APW7 Bitmain Power Supply,82.45
+20,Serial-018,APW9 Bitmain Power Supply,64.28
+21,Serial-019,APW121215a Bitmain Power Supply,38.90
+22,Serial-020,APW121215b Bitmain Power Supply,55.79
+23,Serial-021,APW121215c Bitmain Power Supply,29.87
+24,Serial-022,APW121215d Bitmain Power Supply,66.54
+25,Serial-023,APW121215e Bitmain Power Supply,19.87
+26,Serial-024,APW121215f Bitmain Power Supply,57.94
+27,Serial-025,APW121417b Bitmain Power Supply,72.80
+28,Serial-026,P21D MicroBT Power Supplies,40.67
+29,Serial-027,P21E MicroBT Power Supplies,64.29
+30,Serial-028,P221B MicroBT Power Supplies,28.56
+31,Serial-029,P221C MicroBT Power Supplies,47.38
+32,Serial-030,P222B MicroBT Power Supplies,82.70
+33,Serial-031,P222C MicroBT Power Supplies,59.45
